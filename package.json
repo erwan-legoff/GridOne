@@ -1,5 +1,5 @@
 {
-  "name": "racesimple",
+  "name": "grid-one",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erwan-legoff/raceSimPle.git"
+    "url": "git+https://github.com/erwan-legoff/GridOne.git"
   },
   "keywords": [],
   "author": "erwil",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/erwan-legoff/raceSimPle/issues"
+    "url": "https://github.com/erwan-legoff/GridOne/issues"
   },
-  "homepage": "https://github.com/erwan-legoff/raceSimPle#readme",
+  "homepage": "https://github.com/erwan-legoff/GridOne#readme",
   "devDependencies": {
     "@types/node": "^17.0.23",
     "@typescript-eslint/eslint-plugin": "^5.16.0",
